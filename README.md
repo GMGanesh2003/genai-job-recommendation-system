@@ -1,4 +1,4 @@
-<h1 align="center">🔍 GenAI Job Recommendation System</h1>
+<h1 align="center">🔍 GenAI Job Recommendation System Using LLM</h1>
 
 <p align="center">
   <em>An AI-powered system that recommends jobs based on user skills, profile, and experience using LLMs + Embeddings.</em>
